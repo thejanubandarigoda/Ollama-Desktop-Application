@@ -312,5 +312,6 @@ For issues and questions:
 ---
 
 **Made with ❤️ for the AI community**
-#   O l l a m a - D e s k t o p - A p p l i c a t i o n  
+#   O l l a m a - D e s k t o p - A p p l i c a t i o n 
+ 
  
