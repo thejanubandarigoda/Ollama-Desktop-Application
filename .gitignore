@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+release/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# API Keys (sensitive)
+config/api-keys.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
